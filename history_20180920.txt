@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  nano mans_pirmais_skripts.sh
+    5  ls -l
+    6  ls
+    7  ls -l
+    8  echo $PATH
+    9  cat mans_pirmais_skripts.sh 
+   10  cat /bin/ls
+   11  62;c
+   12  pwd
+   13  PATH=$PATH:/home/user
+   14  echo $PATH
+   15  ls -l
+   16  chmod764 mans_pirmais_skripts.sh 
+   17  ls -l
+   18  chmod 764 mans_pirmais_skripts.sh 
+   19  ls -l
+   20  mans_pirmais_skripts.sh 
+   21  ls -l
+   22  cd Mape
+   23  ls -l
+   24  cd ..
+   25  ls -l
+   26  /home/user/mans_pirmais_skripts.sh 
+   27  ./mans_pirmais_skripts.sh 
+   28  ~/mans_pirmais_skripts.sh 
+   29  git clone https://github.com/anastasijaTr/RTR105
+   30  ls -l
+   31  cd RTR105
+   32  ls -l
+   33  nano README.md
+   34  history
+   35  nano README.md
+   36  nano git-upload 
+   37  ls -l
+   38  chmod 764 git-upload 
+   39  ls -l
+   40  history
+   41  history > history_20180920.txt

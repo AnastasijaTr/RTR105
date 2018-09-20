@@ -10,3 +10,17 @@ butrs _-u-_ Tab  visas komandas, kuri sākas uz -u- burtu
 **F7** - parasta versija  
 **pwd** - adrese lokala stacija  
 **ls** - saraksts
+**chmod** - izmainīt  
+**mkdir** - jauna mape  
+**rmdir** - dzest mapi  
+**man rm** - dzeš failus
+**cp** - copy  
+**mv** - parvietot
+
+**Skript**  
+_Piemeram_  
+mkdir Mape  
+cd Mape  
+mkdir MapeMape  
+**echo $PATH** - lai varētu stradāt Tab  
+

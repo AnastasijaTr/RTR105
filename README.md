@@ -38,4 +38,5 @@ c = 'R' - str
 Skripts - fails  
 Ctrl+k - copy  
 Ctrl+u - paste  
-
+  
+PY4E  

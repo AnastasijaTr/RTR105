@@ -1,0 +1,20 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls -l
+    4  git clone https://gitgub.com/anastasijatr/RTR105
+    5  anastasijatr
+    6  cd RTR105
+    7  ped
+    8  pwd
+    9  cd/RTR105
+   10  cdRTR105
+   11  ls -l
+   12  git clone https://gitgub.com/anastasijatr/RTR105
+   13  git clone https://github.com/anastasijatr/RTR105
+   14  ls -l
+   15  cd RTR105
+   16  idle &
+   17  ls -l
+   18  nano README.md
+   19  ls -l
+   20  history > history_20181008_16_03

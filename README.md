@@ -40,3 +40,12 @@ Ctrl+k - copy
 Ctrl+u - paste  
   
 PY4E  
+**idle**  
+'''  
+Piemers nozime lai saglabāt  
+'''  
+x = 42  
+if x > 1:  
+   print('More that one')  
+   if x < 100:
+      print('Less than 100')

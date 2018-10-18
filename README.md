@@ -47,5 +47,15 @@ Piemers nozime lai saglabāt
 x = 42  
 if x > 1:  
    print('More that one')  
-   if x < 100:
+   if x < 100:  
       print('Less than 100')
+print('All done')  
+
+
+  
+x = 4  
+if x > 2:  
+   print('Bigger')  
+else:  
+    print('Smaller')  
+print('All done')  

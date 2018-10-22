@@ -59,3 +59,36 @@ if x > 2:
 else:  
     print('Smaller')  
 print('All done')  
+  
+
+
+
+**Loops and iterations**  
+n = 5  
+while n > 0:
+      print(n)
+      n = n - 1  
+print('Blastoff!') 
+print(n)  
+>>>>>>>  
+5  
+4  
+3  
+2  
+1  
+Blastoff!  
+0  
+>>>>>>>>  
+n = 5   
+while n > 0
+      print('A')  
+      print('B')  
+print('Dry off')  
+>>>>>>>>>>>>>>
+A  
+B  
+A  
+B  
+un tā bus bezgalīgi, jo n nemainas un visu laiku ir vairāk neka nulle  
+>>>>>>>>>>>>>>>>>>>>>>>>>>  
+

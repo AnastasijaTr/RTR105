@@ -59,11 +59,40 @@ if x > 2:
 else:  
     print('Smaller')  
 print('All done')  
-  
 
 
+**Nosacijuma oporats**  
+if (nosacijums):  
 
-**Loops and iterations**  
+elif pieder if  
+elif (nosacijums):  
+    vismaz viena darbība  
+
+if (...):  
+    ....  
+elif (...):  
+    ....  
+else:
+    vismaz viena darbība  
+
+**Funkcijas**  
+def funkcijas vards(vieta argumentam):
+    vismaz viena darbība  
+    return mainigais  
+**return**- ja kautko planojat atgriezt 
+
+
+**Loops and iterations**(Cikli)  
+1)While(tikmēr, kamēr)  
+while nosacijums:  
+    vismaz viena darbība  
+cikla partraukuma vards -**break**(vispar)  
+**continue**- partrauk darbību un atgriežas pie nosacijuma    
+2)for cikla mainigais in skaitlis:  
+    vismaz viena darbība  
+continue> nakamais elements saraksta  
+break> no cikla for arā  
+
 n = 5  
 while n > 0:
       print(n)
@@ -91,4 +120,6 @@ A
 B  
 un tā bus bezgalīgi, jo n nemainas un visu laiku ir vairāk neka nulle  
 >>>>>>>>>>>>>>>>>>>>>>>>>>  
+
+**Files**  
 

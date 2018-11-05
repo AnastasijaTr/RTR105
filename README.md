@@ -3,7 +3,7 @@ Datormācibas kursa elektroniskā klade
 **Ctrl+Shit+T** - atvert jauno user  
 **Tab** - visas komandas( jāatkarto 2 reizes)  
 _Piemeram_   
-butrs _-u-_ Tab  visas komandas, kuri sākas uz -u- burtu  
+burts _-u-_ Tab  visas komandas, kuri sākas uz -u- burtu  
 **Ctrl+L** - ekrans tīrs viss no jauna  
 **q** - iziet  
 **Ctrl+Alt+F1(F2,F3...)** - teletypwriter vai TTY  
@@ -120,6 +120,45 @@ A
 B  
 un tā bus bezgalīgi, jo n nemainas un visu laiku ir vairāk neka nulle  
 >>>>>>>>>>>>>>>>>>>>>>>>>>  
+
+**Strings**
+len - cik ir burtu vardā  
+_Piemērs_  
+>friut = 'banana'  
+>print(len(fruit))  
+6  
+
+Monty Pyth o n    
+01234567891011  
+>s = 'Monty Python'  
+>print(s[0:4])  
+Mont  
+>print(s[6:7])  
+P  
+>print(s[6:20])  
+Python  
+>print(s[:2])  
+Mo  
+>print(s[8:])  
+thon  
+>print(s[:])  
+Monty Python  
+
+
+.lower() - visi burti ar maziem burtiem  
+.upper() - visi burti ar LIELAM burtiem  
+.lstrip() - kreisā puses    
+.rstrip() - labā puse  
+.strip() - pa vidu
+
+_Piemērs, lai butu atstarpe_  
+> a = 'hello'  
+> b = a + 'there'  
+> print(b)  
+hellothere  
+> c = a + ' ' + 'there'  
+> print(c)  
+hello there 
 
 **Files**  
 
